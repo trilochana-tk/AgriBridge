@@ -1,0 +1,4 @@
+FIREBASE_SETUP.txt
+.env
+.env.*
+node_modules/
